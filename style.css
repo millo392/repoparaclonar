@@ -1,0 +1,12 @@
+
+:root {
+    --color:purple;
+}
+h1{
+    color: var(--color);
+    width: 200px;
+    margin: 2em;
+}
+p{
+    color: var(--color);
+}
